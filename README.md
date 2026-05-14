@@ -152,9 +152,9 @@ apps that feel modern, useful and alive
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vokillike/vokillike/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vokillike/vokillike/output/github-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/vokillike/vokillike/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VoKiLike/VoKiLike/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VoKiLike/VoKiLike/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/VoKiLike/VoKiLike/output/github-snake.svg">
   </picture>
 </p>
 
@@ -166,7 +166,7 @@ apps that feel modern, useful and alive
   <a href="https://github.com/vokillike">
     <img src="https://img.shields.io/badge/GitHub-vokillike-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me/qbix_dev">
+  <a href="https://t.me/vokimind">
     <img src="https://img.shields.io/badge/Telegram-contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.instagram.com/qbix.tech/">
